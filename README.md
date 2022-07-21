@@ -1,2 +1,2 @@
-# instagran
-criando a interface do instagran
+# instagram
+criando a interface do instagram
